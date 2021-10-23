@@ -1,0 +1,10 @@
+{
+  "name": "@saber2pr/cli-git",
+  "version": "0.0.1",
+  "bin": {
+    "sa-git": "./cli.js"
+  },
+  "dependencies": {
+    "@saber2pr/cli": "^0.1.4"
+  }
+}
