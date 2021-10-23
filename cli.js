@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const create = require('@saber2pr/cli').default
 
 create({
